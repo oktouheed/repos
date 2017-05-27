@@ -1,7 +1,7 @@
 <?php
 /**
  * Plugin Name: My Github Repos
- * Description: Display user repos in widget
+ * Description: Display Github user repository in WordPress widget
  * Version: 1.0
  * Author: Touheed Hasan
 **/
